@@ -1,1 +1,1 @@
-[clickme](vbscript:alert(document.domain))
+</http://<?php\><\h1\><script:script>confirm(2)
